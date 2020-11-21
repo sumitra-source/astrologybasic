@@ -22,6 +22,11 @@ namespace astrobasic.Controllers
         {
             return View();
         }
+        public IActionResult LifePath()
+        {
+            return View();
+
+        }
 
         public IActionResult Privacy()
         {
