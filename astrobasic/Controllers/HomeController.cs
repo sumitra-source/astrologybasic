@@ -27,6 +27,10 @@ namespace astrobasic.Controllers
             return View();
 
         }
+        public IActionResult TarotcardBasic()
+        {
+            return View();
+        }
         public IActionResult RisingmoonsunSign()
         {
             return View();
