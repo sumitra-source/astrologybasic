@@ -22,12 +22,28 @@ namespace astrobasic.Controllers
         {
             return View();
         }
-        public IActionResult LifePath()
+        public IActionResult LifePathnumber()
         {
             return View();
 
         }
+        public IActionResult RisingmoonsunSign()
+        {
+            return View();
+        }
+        public IActionResult NumerologyDetail()
+        {
+            return View();
 
+        }
+        public IActionResult HousesInformation()
+        {
+            return View();
+        }
+        public IActionResult BirthchartDetail()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
