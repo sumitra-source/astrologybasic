@@ -1,0 +1,2 @@
+# astrologybasic
+integration to git
