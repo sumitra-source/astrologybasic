@@ -22,6 +22,11 @@ namespace astrobasic.Controllers
         {
             return View();
         }
+         public IActionResult NorthnodesouthnodeDescription()
+        {
+            return View();
+        }
+       
         public IActionResult LifePathnumber()
         {
             return View();
