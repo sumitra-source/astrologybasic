@@ -32,6 +32,19 @@ namespace astrobasic.Controllers
             return View();
 
         }
+        
+        public IActionResult WesternAstrology()
+        {
+            return View();
+
+        }
+        
+        public IActionResult VedicAstrology()
+        {
+            return View();
+
+        }
+
         public IActionResult TarotcardBasic()
         {
             return View();
