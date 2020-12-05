@@ -32,6 +32,11 @@ namespace astrobasic.Controllers
             return View();
 
         }
+          public IActionResult PersonalYearnumber()
+        {
+            return View();
+
+        }
         
         public IActionResult WesternAstrology()
         {
