@@ -22,6 +22,10 @@ namespace astrobasic.Controllers
         {
             return View();
         }
+         public IActionResult SevenChakrasPage()
+        {
+            return View();
+        }
          public IActionResult NorthnodesouthnodeDescription()
         {
             return View();
